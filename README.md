@@ -1,13 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am Xinlin.
 
-My name is Xinlin. I am from Chongqing, China.
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... yuanxinlin0122@gmail.com
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I play piano.
--->
+- 🔭 My favorite programming language: Python, MATLAB, R 
+- 🏠 My hometown: Chongqing, China
+- 📖 I can speak: English, Mandarin, Cantonese
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love playing piano and going to the gym
+- 📫 How to reach me: yuanxinlin0122@gmail.com
