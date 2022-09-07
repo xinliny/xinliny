@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Xinlin.
 
-- 🔭 My favorite programming language: Python, MATLAB, R 
+- 🔭 My favorite programming languages: Python, MATLAB, R
+- 🌤 One of my dreams is: To be a quantitative researcher/ trader
 - 🏠 My hometown: Chongqing, China
 - 📖 I can speak: English, Mandarin, Cantonese
 - 😄 Pronouns: She/Her
