@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Xinlin.
 
+- 🖤 Currently I am studing Financial Engineering at UCLA
 - 🔭 My favorite programming languages: Python, MATLAB, R
 - 🌤 One of my dreams is: To be a quantitative researcher/ trader
 - 🏠 My hometown: Chongqing, China
