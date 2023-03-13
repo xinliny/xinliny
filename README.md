@@ -1,4 +1,4 @@
-### Hi there 👋, I am Xinlin.
+### Hi there 👋, I am Celine.
 
 - 🖤 I just graduated from UCLA Anderson with a Masters in Financial Engineering
 - 🔭 My favorite programming languages: Python, R, Stata, Matlab
